@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@google-cloud/firestore": "3.8.6",
+    "@grpc/grpc-js": "1.1.0",
+    "@types/jest": "^26.0.0",
+    "jest": "^25.5.4",
+    "ts-jest": "^25.5.1",
+    "typescript": "^3.9.5"
+  },
+  "scripts": {
+    "test": "jest --no-cache"
+  }
+}
